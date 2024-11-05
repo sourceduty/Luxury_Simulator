@@ -1,4 +1,4 @@
-![Luxury Simulator](https://github.com/user-attachments/assets/6524fa30-58e6-4f4c-a3c3-05c36805f35d)
+![Money](https://github.com/user-attachments/assets/ddbae019-d76b-4b81-88af-6a0494868f2d)
 
 > Simulate spending money on ultra-rich luxury items.
 #
